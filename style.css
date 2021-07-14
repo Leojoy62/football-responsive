@@ -24,12 +24,12 @@ body{
 
 }
 .watch-live{
-    margin-top: 10px;  
+    margin-top: 25px;  
 }
 .anchor:hover{
     background-color: rgb(5, 17, 121);
     color: rgb(189, 92, 13);
-    font-size: 20px;
+    font-size: 22px;
     
 }
 .anchor{
@@ -38,7 +38,8 @@ body{
     background-color: #E02C6D;
     text-decoration: none;
     margin-left: 156px;
-    padding: 10px 24px; 
+    padding: 10px 24px;
+    transition: font-size 2s; 
     
     
 }
